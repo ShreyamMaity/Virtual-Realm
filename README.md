@@ -88,7 +88,7 @@ https://user-images.githubusercontent.com/38105595/146590170-605bcba0-5cd5-414f-
 |--------------------|--------|
 |`Shreyam Maity`|Team Lead|
 |`Sayan Ghosh`|Backend Developer|
-|`Sayan Samanta`|UI/UX Designer|
+|`[Sayan Samanta](https://github.com/SayanDeveloper)`|UI/UX Designer|
 |`Yash Shaw`|Aws Manager|
 |`Swapnanil Maity`|Active Tester|
 
