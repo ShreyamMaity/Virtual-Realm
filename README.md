@@ -2,7 +2,9 @@
 <h1 align="center">Virtual Realm</h1>
 <h4 align="center">An Augmented Reality Based Virtual Interactive Laboratory System</h4>
 <h4 align="center">Created within a week as a final project of Cloud Computing Course By Ardent Computech Pvt Ltd</h4>  
+
 - - -
+
 <p align="center">
 <img src=https://visitor-badge.glitch.me/badge?page_id=ShryeyamMaity.Virtual-Realm"/>
 <img src="https://img.shields.io/github/license/ShreyamMaity/Virtual-Realm"/>
@@ -64,6 +66,8 @@ _ _ _
 - - -
 ### `Demo Video`
 
+https://user-images.githubusercontent.com/38105595/146590170-605bcba0-5cd5-414f-8012-2a714115ebd6.mp4
+
 ---
 
 ### `AWS Microservices Used`
@@ -73,7 +77,7 @@ _ _ _
 |`Cognito`|For Auth|
 |`Polly`|For Instructions|
 |`DynamoDB`|For Database|
-|`Auto Scaling`|For EC2 autoscale|
+|`Auto Scaling`|For EC2 autoscaling|
 |`Elastic Load Balancing`|For EC2 load balancing|
 
 - - -
