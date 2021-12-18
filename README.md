@@ -89,7 +89,7 @@ https://user-images.githubusercontent.com/38105595/146590170-605bcba0-5cd5-414f-
 |[Shreyam Maity](https://github.com/ShreyamMaity)|Team Lead|
 |[Sayan Ghosh](https://github.com/neme-sis)|Backend Developer|
 |[Sayan Samanta](https://github.com/SayanDeveloper)|UI/UX Designer|
-|[Yash Shaw](https://github.com/)|Aws Manager|
+|[Yash Shaw](https://github.com/yash-codes02)|Aws Manager|
 |[Swapnanil Maity](https://github.com/)|Active Tester|
 
 ---
